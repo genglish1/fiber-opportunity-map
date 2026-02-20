@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/raw/cb_2020_us_tract_500k.zip
+data/raw/tract_geometries.geojson
+data/raw/rucc_2023.csv

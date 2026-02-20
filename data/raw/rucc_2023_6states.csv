@@ -1,0 +1,495 @@
+FIPS,State,County_Name,state_fips,Description,Population_2020,RUCC_2023
+21001,KY,Adair County,21,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",18903,7
+21003,KY,Allen County,21,"Metro - Counties in metro areas of fewer than 250,000 population",20588,3
+21005,KY,Anderson County,21,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",23852,6
+21007,KY,Ballard County,21,"Metro - Counties in metro areas of fewer than 250,000 population",7728,3
+21009,KY,Barren County,21,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",44485,6
+21011,KY,Bath County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",12750,8
+21013,KY,Bell County,21,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",24097,7
+21015,KY,Boone County,21,Metro - Counties in metro areas of 1 million population or more,135968,1
+21017,KY,Bourbon County,21,"Metro - Counties in metro areas of 250,000 to 1 million population",20252,2
+21019,KY,Boyd County,21,"Metro - Counties in metro areas of 250,000 to 1 million population",48261,2
+21021,KY,Boyle County,21,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",30614,7
+21023,KY,Bracken County,21,Metro - Counties in metro areas of 1 million population or more,8400,1
+21025,KY,Breathitt County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",13718,9
+21027,KY,Breckinridge County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",20432,8
+21029,KY,Bullitt County,21,Metro - Counties in metro areas of 1 million population or more,82217,1
+21031,KY,Butler County,21,"Metro - Counties in metro areas of fewer than 250,000 population",12371,3
+21033,KY,Caldwell County,21,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",12649,7
+21035,KY,Calloway County,21,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",37103,7
+21037,KY,Campbell County,21,Metro - Counties in metro areas of 1 million population or more,93076,1
+21039,KY,Carlisle County,21,"Metro - Counties in metro areas of fewer than 250,000 population",4826,3
+21041,KY,Carroll County,21,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",10810,6
+21043,KY,Carter County,21,"Metro - Counties in metro areas of 250,000 to 1 million population",26627,2
+21045,KY,Casey County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",15941,9
+21047,KY,Christian County,21,"Metro - Counties in metro areas of 250,000 to 1 million population",72748,2
+21049,KY,Clark County,21,"Metro - Counties in metro areas of 250,000 to 1 million population",36972,2
+21051,KY,Clay County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",20345,9
+21053,KY,Clinton County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",9253,9
+21055,KY,Crittenden County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",8990,8
+21057,KY,Cumberland County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",5888,9
+21059,KY,Daviess County,21,"Metro - Counties in metro areas of fewer than 250,000 population",103312,3
+21061,KY,Edmonson County,21,"Metro - Counties in metro areas of fewer than 250,000 population",12126,3
+21063,KY,Elliott County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",7354,8
+21065,KY,Estill County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",14163,8
+21067,KY,Fayette County,21,"Metro - Counties in metro areas of 250,000 to 1 million population",322570,2
+21069,KY,Fleming County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",15082,9
+21071,KY,Floyd County,21,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",35942,7
+21073,KY,Franklin County,21,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",51541,4
+21075,KY,Fulton County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",6515,9
+21077,KY,Gallatin County,21,Metro - Counties in metro areas of 1 million population or more,8690,1
+21079,KY,Garrard County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",16953,8
+21081,KY,Grant County,21,Metro - Counties in metro areas of 1 million population or more,24941,1
+21083,KY,Graves County,21,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",36649,6
+21085,KY,Grayson County,21,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",26420,6
+21087,KY,Green County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",11107,8
+21089,KY,Greenup County,21,"Metro - Counties in metro areas of 250,000 to 1 million population",35962,2
+21091,KY,Hancock County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",9095,8
+21093,KY,Hardin County,21,"Metro - Counties in metro areas of fewer than 250,000 population",110702,3
+21095,KY,Harlan County,21,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",26831,7
+21097,KY,Harrison County,21,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",18692,6
+21099,KY,Hart County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",19288,8
+21101,KY,Henderson County,21,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",44793,4
+21103,KY,Henry County,21,Metro - Counties in metro areas of 1 million population or more,15678,1
+21105,KY,Hickman County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",4521,8
+21107,KY,Hopkins County,21,"Nonmetro - Urban population of 20,000 or more, not adjacent to a metro area",45423,5
+21109,KY,Jackson County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",12955,9
+21111,KY,Jefferson County,21,Metro - Counties in metro areas of 1 million population or more,782969,1
+21113,KY,Jessamine County,21,"Metro - Counties in metro areas of 250,000 to 1 million population",52991,2
+21115,KY,Johnson County,21,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",22680,7
+21117,KY,Kenton County,21,Metro - Counties in metro areas of 1 million population or more,169064,1
+21119,KY,Knott County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",14251,9
+21121,KY,Knox County,21,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",30193,7
+21123,KY,Larue County,21,"Metro - Counties in metro areas of fewer than 250,000 population",14867,3
+21125,KY,Laurel County,21,"Nonmetro - Urban population of 20,000 or more, not adjacent to a metro area",62613,5
+21127,KY,Lawrence County,21,"Metro - Counties in metro areas of 250,000 to 1 million population",16293,2
+21129,KY,Lee County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",7395,9
+21131,KY,Leslie County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",10513,9
+21133,KY,Letcher County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",21548,9
+21135,KY,Lewis County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",13080,8
+21137,KY,Lincoln County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",24275,9
+21139,KY,Livingston County,21,"Metro - Counties in metro areas of fewer than 250,000 population",8888,3
+21141,KY,Logan County,21,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",27432,6
+21143,KY,Lyon County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",8680,8
+21145,KY,McCracken County,21,"Metro - Counties in metro areas of fewer than 250,000 population",67875,3
+21147,KY,McCreary County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",16888,9
+21149,KY,McLean County,21,"Metro - Counties in metro areas of fewer than 250,000 population",9152,3
+21151,KY,Madison County,21,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",92701,4
+21153,KY,Magoffin County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",11637,9
+21155,KY,Marion County,21,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",19581,6
+21157,KY,Marshall County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",31659,8
+21159,KY,Martin County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",11287,8
+21161,KY,Mason County,21,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",17120,6
+21163,KY,Meade County,21,Metro - Counties in metro areas of 1 million population or more,30003,1
+21165,KY,Menifee County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",6113,9
+21167,KY,Mercer County,21,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",22641,6
+21169,KY,Metcalfe County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",10286,9
+21171,KY,Monroe County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",11338,8
+21173,KY,Montgomery County,21,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",28114,6
+21175,KY,Morgan County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",13726,9
+21177,KY,Muhlenberg County,21,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",30928,6
+21179,KY,Nelson County,21,Metro - Counties in metro areas of 1 million population or more,46738,1
+21181,KY,Nicholas County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",7537,8
+21183,KY,Ohio County,21,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",23772,6
+21185,KY,Oldham County,21,Metro - Counties in metro areas of 1 million population or more,67607,1
+21187,KY,Owen County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",11278,8
+21189,KY,Owsley County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",4051,9
+21191,KY,Pendleton County,21,Metro - Counties in metro areas of 1 million population or more,14644,1
+21193,KY,Perry County,21,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",28473,7
+21195,KY,Pike County,21,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",58669,7
+21197,KY,Powell County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",13129,8
+21199,KY,Pulaski County,21,"Nonmetro - Urban population of 20,000 or more, not adjacent to a metro area",65034,5
+21201,KY,Robertson County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",2193,8
+21203,KY,Rockcastle County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",16037,9
+21205,KY,Rowan County,21,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",24662,6
+21207,KY,Russell County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",17991,9
+21209,KY,Scott County,21,"Metro - Counties in metro areas of 250,000 to 1 million population",57155,2
+21211,KY,Shelby County,21,Metro - Counties in metro areas of 1 million population or more,48065,1
+21213,KY,Simpson County,21,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",19594,6
+21215,KY,Spencer County,21,Metro - Counties in metro areas of 1 million population or more,19490,1
+21217,KY,Taylor County,21,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",26023,7
+21219,KY,Todd County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",12243,8
+21221,KY,Trigg County,21,"Metro - Counties in metro areas of 250,000 to 1 million population",14061,2
+21223,KY,Trimble County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",8474,8
+21225,KY,Union County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",13668,8
+21227,KY,Warren County,21,"Metro - Counties in metro areas of fewer than 250,000 population",134554,3
+21229,KY,Washington County,21,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",12027,8
+21231,KY,Wayne County,21,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",19555,7
+21233,KY,Webster County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",13017,9
+21235,KY,Whitley County,21,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",36712,7
+21237,KY,Wolfe County,21,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",6562,9
+21239,KY,Woodford County,21,"Metro - Counties in metro areas of 250,000 to 1 million population",26871,2
+24001,MD,Allegany County,24,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",68106,4
+24003,MD,Anne Arundel County,24,Metro - Counties in metro areas of 1 million population or more,588261,1
+24005,MD,Baltimore County,24,Metro - Counties in metro areas of 1 million population or more,854535,1
+24009,MD,Calvert County,24,"Metro - Counties in metro areas of fewer than 250,000 population",92783,3
+24011,MD,Caroline County,24,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",33293,6
+24013,MD,Carroll County,24,Metro - Counties in metro areas of 1 million population or more,172891,1
+24015,MD,Cecil County,24,Metro - Counties in metro areas of 1 million population or more,103725,1
+24017,MD,Charles County,24,Metro - Counties in metro areas of 1 million population or more,166617,1
+24019,MD,Dorchester County,24,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",32531,6
+24021,MD,Frederick County,24,Metro - Counties in metro areas of 1 million population or more,271717,1
+24023,MD,Garrett County,24,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",28806,8
+24025,MD,Harford County,24,Metro - Counties in metro areas of 1 million population or more,260924,1
+24027,MD,Howard County,24,Metro - Counties in metro areas of 1 million population or more,332317,1
+24029,MD,Kent County,24,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",19198,6
+24031,MD,Montgomery County,24,Metro - Counties in metro areas of 1 million population or more,1062061,1
+24033,MD,Prince George's County,24,Metro - Counties in metro areas of 1 million population or more,967201,1
+24035,MD,Queen Anne's County,24,Metro - Counties in metro areas of 1 million population or more,49874,1
+24037,MD,St. Mary's County,24,"Metro - Counties in metro areas of fewer than 250,000 population",113777,3
+24039,MD,Somerset County,24,"Metro - Counties in metro areas of fewer than 250,000 population",24620,3
+24041,MD,Talbot County,24,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",37526,6
+24043,MD,Washington County,24,"Metro - Counties in metro areas of 250,000 to 1 million population",154705,2
+24045,MD,Wicomico County,24,"Metro - Counties in metro areas of fewer than 250,000 population",103588,3
+24047,MD,Worcester County,24,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",52460,4
+24510,MD,Baltimore city,24,Metro - Counties in metro areas of 1 million population or more,585708,1
+36001,NY,Albany County,36,"Metro - Counties in metro areas of 250,000 to 1 million population",314848,2
+36003,NY,Allegany County,36,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",46456,7
+36005,NY,Bronx County,36,Metro - Counties in metro areas of 1 million population or more,1472654,1
+36007,NY,Broome County,36,"Metro - Counties in metro areas of fewer than 250,000 population",198683,3
+36009,NY,Cattaraugus County,36,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",77042,4
+36011,NY,Cayuga County,36,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",76248,4
+36013,NY,Chautauqua County,36,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",127657,4
+36015,NY,Chemung County,36,"Metro - Counties in metro areas of fewer than 250,000 population",84148,3
+36017,NY,Chenango County,36,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",47220,6
+36019,NY,Clinton County,36,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",79843,4
+36021,NY,Columbia County,36,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",61570,6
+36023,NY,Cortland County,36,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",46809,4
+36025,NY,Delaware County,36,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",44308,8
+36027,NY,Dutchess County,36,"Metro - Counties in metro areas of 250,000 to 1 million population",295911,2
+36029,NY,Erie County,36,Metro - Counties in metro areas of 1 million population or more,954236,1
+36031,NY,Essex County,36,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",37381,6
+36033,NY,Franklin County,36,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",47555,7
+36035,NY,Fulton County,36,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",53324,4
+36037,NY,Genesee County,36,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",58388,4
+36039,NY,Greene County,36,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",47931,6
+36041,NY,Hamilton County,36,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",5107,8
+36043,NY,Herkimer County,36,"Metro - Counties in metro areas of 250,000 to 1 million population",60139,2
+36045,NY,Jefferson County,36,"Metro - Counties in metro areas of fewer than 250,000 population",116721,3
+36047,NY,Kings County,36,Metro - Counties in metro areas of 1 million population or more,2736074,1
+36049,NY,Lewis County,36,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",26582,8
+36051,NY,Livingston County,36,Metro - Counties in metro areas of 1 million population or more,61834,1
+36053,NY,Madison County,36,"Metro - Counties in metro areas of 250,000 to 1 million population",68016,2
+36055,NY,Monroe County,36,Metro - Counties in metro areas of 1 million population or more,759443,1
+36057,NY,Montgomery County,36,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",49532,4
+36059,NY,Nassau County,36,Metro - Counties in metro areas of 1 million population or more,1395774,1
+36061,NY,New York County,36,Metro - Counties in metro areas of 1 million population or more,1694251,1
+36063,NY,Niagara County,36,Metro - Counties in metro areas of 1 million population or more,212666,1
+36065,NY,Oneida County,36,"Metro - Counties in metro areas of 250,000 to 1 million population",232125,2
+36067,NY,Onondaga County,36,"Metro - Counties in metro areas of 250,000 to 1 million population",476516,2
+36069,NY,Ontario County,36,Metro - Counties in metro areas of 1 million population or more,112458,1
+36071,NY,Orange County,36,"Metro - Counties in metro areas of 250,000 to 1 million population",401310,2
+36073,NY,Orleans County,36,Metro - Counties in metro areas of 1 million population or more,40343,1
+36075,NY,Oswego County,36,"Metro - Counties in metro areas of 250,000 to 1 million population",117525,2
+36077,NY,Otsego County,36,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",58524,7
+36079,NY,Putnam County,36,Metro - Counties in metro areas of 1 million population or more,97668,1
+36081,NY,Queens County,36,Metro - Counties in metro areas of 1 million population or more,2405464,1
+36083,NY,Rensselaer County,36,"Metro - Counties in metro areas of 250,000 to 1 million population",161130,2
+36085,NY,Richmond County,36,Metro - Counties in metro areas of 1 million population or more,495747,1
+36087,NY,Rockland County,36,Metro - Counties in metro areas of 1 million population or more,338329,1
+36089,NY,St. Lawrence County,36,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",108505,4
+36091,NY,Saratoga County,36,"Metro - Counties in metro areas of 250,000 to 1 million population",235509,2
+36093,NY,Schenectady County,36,"Metro - Counties in metro areas of 250,000 to 1 million population",158061,2
+36095,NY,Schoharie County,36,"Metro - Counties in metro areas of 250,000 to 1 million population",29714,2
+36097,NY,Schuyler County,36,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",17898,8
+36099,NY,Seneca County,36,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",33814,6
+36101,NY,Steuben County,36,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",93584,4
+36103,NY,Suffolk County,36,Metro - Counties in metro areas of 1 million population or more,1525920,1
+36105,NY,Sullivan County,36,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",78624,6
+36107,NY,Tioga County,36,"Metro - Counties in metro areas of fewer than 250,000 population",48455,3
+36109,NY,Tompkins County,36,"Metro - Counties in metro areas of fewer than 250,000 population",105740,3
+36111,NY,Ulster County,36,"Metro - Counties in metro areas of fewer than 250,000 population",181851,3
+36113,NY,Warren County,36,"Metro - Counties in metro areas of fewer than 250,000 population",65737,3
+36115,NY,Washington County,36,"Metro - Counties in metro areas of fewer than 250,000 population",61302,3
+36117,NY,Wayne County,36,Metro - Counties in metro areas of 1 million population or more,91283,1
+36119,NY,Westchester County,36,Metro - Counties in metro areas of 1 million population or more,1004457,1
+36121,NY,Wyoming County,36,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",40531,8
+36123,NY,Yates County,36,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",24774,6
+39001,OH,Adams County,39,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",27477,8
+39003,OH,Allen County,39,"Metro - Counties in metro areas of fewer than 250,000 population",102206,3
+39005,OH,Ashland County,39,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",52447,6
+39007,OH,Ashtabula County,39,Metro - Counties in metro areas of 1 million population or more,97574,1
+39009,OH,Athens County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",62431,4
+39011,OH,Auglaize County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",46422,4
+39013,OH,Belmont County,39,"Metro - Counties in metro areas of fewer than 250,000 population",66497,3
+39015,OH,Brown County,39,Metro - Counties in metro areas of 1 million population or more,43676,1
+39017,OH,Butler County,39,Metro - Counties in metro areas of 1 million population or more,390357,1
+39019,OH,Carroll County,39,"Metro - Counties in metro areas of 250,000 to 1 million population",26721,2
+39021,OH,Champaign County,39,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",38714,6
+39023,OH,Clark County,39,"Metro - Counties in metro areas of fewer than 250,000 population",136001,3
+39025,OH,Clermont County,39,Metro - Counties in metro areas of 1 million population or more,208601,1
+39027,OH,Clinton County,39,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",42018,6
+39029,OH,Columbiana County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",101877,4
+39031,OH,Coshocton County,39,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",36612,7
+39033,OH,Crawford County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",42025,4
+39035,OH,Cuyahoga County,39,Metro - Counties in metro areas of 1 million population or more,1264817,1
+39037,OH,Darke County,39,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",51881,6
+39039,OH,Defiance County,39,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",38286,6
+39041,OH,Delaware County,39,Metro - Counties in metro areas of 1 million population or more,214124,1
+39043,OH,Erie County,39,"Metro - Counties in metro areas of fewer than 250,000 population",75622,3
+39045,OH,Fairfield County,39,Metro - Counties in metro areas of 1 million population or more,158921,1
+39047,OH,Fayette County,39,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",28951,6
+39049,OH,Franklin County,39,Metro - Counties in metro areas of 1 million population or more,1323807,1
+39051,OH,Fulton County,39,"Metro - Counties in metro areas of 250,000 to 1 million population",42713,2
+39053,OH,Gallia County,39,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",29220,6
+39055,OH,Geauga County,39,Metro - Counties in metro areas of 1 million population or more,95397,1
+39057,OH,Greene County,39,"Metro - Counties in metro areas of 250,000 to 1 million population",167966,2
+39059,OH,Guernsey County,39,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",38438,6
+39061,OH,Hamilton County,39,Metro - Counties in metro areas of 1 million population or more,830639,1
+39063,OH,Hancock County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",74920,4
+39065,OH,Hardin County,39,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",30696,6
+39067,OH,Harrison County,39,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",14483,8
+39069,OH,Henry County,39,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",27662,6
+39071,OH,Highland County,39,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",43317,6
+39073,OH,Hocking County,39,Metro - Counties in metro areas of 1 million population or more,28050,1
+39075,OH,Holmes County,39,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",44223,9
+39077,OH,Huron County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",58565,4
+39079,OH,Jackson County,39,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",32653,7
+39081,OH,Jefferson County,39,"Metro - Counties in metro areas of fewer than 250,000 population",65249,3
+39083,OH,Knox County,39,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",62721,6
+39085,OH,Lake County,39,Metro - Counties in metro areas of 1 million population or more,232603,1
+39087,OH,Lawrence County,39,"Metro - Counties in metro areas of 250,000 to 1 million population",58240,2
+39089,OH,Licking County,39,Metro - Counties in metro areas of 1 million population or more,178519,1
+39091,OH,Logan County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",46150,4
+39093,OH,Lorain County,39,Metro - Counties in metro areas of 1 million population or more,312964,1
+39095,OH,Lucas County,39,"Metro - Counties in metro areas of 250,000 to 1 million population",431279,2
+39097,OH,Madison County,39,Metro - Counties in metro areas of 1 million population or more,43824,1
+39099,OH,Mahoning County,39,"Metro - Counties in metro areas of 250,000 to 1 million population",228614,2
+39101,OH,Marion County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",65359,4
+39103,OH,Medina County,39,Metro - Counties in metro areas of 1 million population or more,182470,1
+39105,OH,Meigs County,39,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",22210,8
+39107,OH,Mercer County,39,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",42528,7
+39109,OH,Miami County,39,"Metro - Counties in metro areas of 250,000 to 1 million population",108774,2
+39111,OH,Monroe County,39,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",13385,8
+39113,OH,Montgomery County,39,"Metro - Counties in metro areas of 250,000 to 1 million population",537309,2
+39115,OH,Morgan County,39,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",13802,8
+39117,OH,Morrow County,39,Metro - Counties in metro areas of 1 million population or more,34950,1
+39119,OH,Muskingum County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",86410,4
+39121,OH,Noble County,39,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",14115,9
+39123,OH,Ottawa County,39,"Metro - Counties in metro areas of fewer than 250,000 population",40364,3
+39125,OH,Paulding County,39,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",18806,8
+39127,OH,Perry County,39,Metro - Counties in metro areas of 1 million population or more,35408,1
+39129,OH,Pickaway County,39,Metro - Counties in metro areas of 1 million population or more,58539,1
+39131,OH,Pike County,39,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",27088,9
+39133,OH,Portage County,39,"Metro - Counties in metro areas of 250,000 to 1 million population",161791,2
+39135,OH,Preble County,39,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",40999,6
+39137,OH,Putnam County,39,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",34451,6
+39139,OH,Richland County,39,"Metro - Counties in metro areas of fewer than 250,000 population",124936,3
+39141,OH,Ross County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",77093,4
+39143,OH,Sandusky County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",58896,4
+39145,OH,Scioto County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",74008,4
+39147,OH,Seneca County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",55069,4
+39149,OH,Shelby County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",48230,4
+39151,OH,Stark County,39,"Metro - Counties in metro areas of 250,000 to 1 million population",374853,2
+39153,OH,Summit County,39,"Metro - Counties in metro areas of 250,000 to 1 million population",540428,2
+39155,OH,Trumbull County,39,"Metro - Counties in metro areas of 250,000 to 1 million population",201977,2
+39157,OH,Tuscarawas County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",93263,4
+39159,OH,Union County,39,Metro - Counties in metro areas of 1 million population or more,62784,1
+39161,OH,Van Wert County,39,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",28931,6
+39163,OH,Vinton County,39,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",12800,8
+39165,OH,Warren County,39,Metro - Counties in metro areas of 1 million population or more,242337,1
+39167,OH,Washington County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",59771,4
+39169,OH,Wayne County,39,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",116894,4
+39171,OH,Williams County,39,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",37102,7
+39173,OH,Wood County,39,"Metro - Counties in metro areas of 250,000 to 1 million population",132248,2
+39175,OH,Wyandot County,39,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",21900,7
+42001,PA,Adams County,42,"Metro - Counties in metro areas of fewer than 250,000 population",103852,3
+42003,PA,Allegheny County,42,Metro - Counties in metro areas of 1 million population or more,1250578,1
+42005,PA,Armstrong County,42,Metro - Counties in metro areas of 1 million population or more,65558,1
+42007,PA,Beaver County,42,Metro - Counties in metro areas of 1 million population or more,168215,1
+42009,PA,Bedford County,42,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",47577,8
+42011,PA,Berks County,42,"Metro - Counties in metro areas of 250,000 to 1 million population",428849,2
+42013,PA,Blair County,42,"Metro - Counties in metro areas of fewer than 250,000 population",122822,3
+42015,PA,Bradford County,42,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",59967,6
+42017,PA,Bucks County,42,Metro - Counties in metro areas of 1 million population or more,646538,1
+42019,PA,Butler County,42,Metro - Counties in metro areas of 1 million population or more,193763,1
+42021,PA,Cambria County,42,"Metro - Counties in metro areas of fewer than 250,000 population",133472,3
+42023,PA,Cameron County,42,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",4547,9
+42025,PA,Carbon County,42,"Metro - Counties in metro areas of 250,000 to 1 million population",64749,2
+42027,PA,Centre County,42,"Metro - Counties in metro areas of fewer than 250,000 population",158172,3
+42029,PA,Chester County,42,Metro - Counties in metro areas of 1 million population or more,534413,1
+42031,PA,Clarion County,42,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",37241,6
+42033,PA,Clearfield County,42,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",80562,4
+42035,PA,Clinton County,42,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",37450,6
+42037,PA,Columbia County,42,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",64727,4
+42039,PA,Crawford County,42,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",83938,4
+42041,PA,Cumberland County,42,"Metro - Counties in metro areas of 250,000 to 1 million population",259469,2
+42043,PA,Dauphin County,42,"Metro - Counties in metro areas of 250,000 to 1 million population",286401,2
+42045,PA,Delaware County,42,Metro - Counties in metro areas of 1 million population or more,576830,1
+42047,PA,Elk County,42,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",30990,7
+42049,PA,Erie County,42,"Metro - Counties in metro areas of 250,000 to 1 million population",270876,2
+42051,PA,Fayette County,42,Metro - Counties in metro areas of 1 million population or more,128804,1
+42053,PA,Forest County,42,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",6973,9
+42055,PA,Franklin County,42,"Metro - Counties in metro areas of fewer than 250,000 population",155932,3
+42057,PA,Fulton County,42,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",14556,8
+42059,PA,Greene County,42,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",35954,6
+42061,PA,Huntingdon County,42,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",44092,6
+42063,PA,Indiana County,42,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",83246,4
+42065,PA,Jefferson County,42,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",44492,7
+42067,PA,Juniata County,42,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",23509,8
+42069,PA,Lackawanna County,42,"Metro - Counties in metro areas of 250,000 to 1 million population",215896,2
+42071,PA,Lancaster County,42,"Metro - Counties in metro areas of 250,000 to 1 million population",552984,2
+42073,PA,Lawrence County,42,Metro - Counties in metro areas of 1 million population or more,86070,1
+42075,PA,Lebanon County,42,"Metro - Counties in metro areas of fewer than 250,000 population",143257,3
+42077,PA,Lehigh County,42,"Metro - Counties in metro areas of 250,000 to 1 million population",374557,2
+42079,PA,Luzerne County,42,"Metro - Counties in metro areas of 250,000 to 1 million population",325594,2
+42081,PA,Lycoming County,42,"Metro - Counties in metro areas of fewer than 250,000 population",114188,3
+42083,PA,McKean County,42,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",40432,7
+42085,PA,Mercer County,42,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",110652,4
+42087,PA,Mifflin County,42,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",46143,4
+42089,PA,Monroe County,42,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",168327,4
+42091,PA,Montgomery County,42,Metro - Counties in metro areas of 1 million population or more,856553,1
+42093,PA,Montour County,42,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",18136,6
+42095,PA,Northampton County,42,"Metro - Counties in metro areas of 250,000 to 1 million population",312951,2
+42097,PA,Northumberland County,42,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",91647,4
+42099,PA,Perry County,42,"Metro - Counties in metro areas of 250,000 to 1 million population",45842,2
+42101,PA,Philadelphia County,42,Metro - Counties in metro areas of 1 million population or more,1603797,1
+42103,PA,Pike County,42,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",58535,6
+42105,PA,Potter County,42,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",16396,9
+42107,PA,Schuylkill County,42,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",143049,4
+42109,PA,Snyder County,42,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",39736,7
+42111,PA,Somerset County,42,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",74129,6
+42113,PA,Sullivan County,42,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",5840,8
+42115,PA,Susquehanna County,42,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",38434,8
+42117,PA,Tioga County,42,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",41045,8
+42119,PA,Union County,42,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",42681,6
+42121,PA,Venango County,42,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",50454,4
+42123,PA,Warren County,42,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",38587,6
+42125,PA,Washington County,42,Metro - Counties in metro areas of 1 million population or more,209349,1
+42127,PA,Wayne County,42,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",51155,6
+42129,PA,Westmoreland County,42,Metro - Counties in metro areas of 1 million population or more,354663,1
+42131,PA,Wyoming County,42,"Metro - Counties in metro areas of 250,000 to 1 million population",26069,2
+42133,PA,York County,42,"Metro - Counties in metro areas of 250,000 to 1 million population",456438,2
+51001,VA,Accomack County,51,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",33413,9
+51003,VA,Albemarle County,51,"Metro - Counties in metro areas of fewer than 250,000 population",112395,3
+51005,VA,Alleghany County,51,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",15223,6
+51007,VA,Amelia County,51,Metro - Counties in metro areas of 1 million population or more,13265,1
+51009,VA,Amherst County,51,"Metro - Counties in metro areas of 250,000 to 1 million population",31307,2
+51011,VA,Appomattox County,51,"Metro - Counties in metro areas of 250,000 to 1 million population",16119,2
+51013,VA,Arlington County,51,Metro - Counties in metro areas of 1 million population or more,238643,1
+51015,VA,Augusta County,51,"Metro - Counties in metro areas of fewer than 250,000 population",77487,3
+51017,VA,Bath County,51,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",4209,9
+51019,VA,Bedford County,51,"Metro - Counties in metro areas of 250,000 to 1 million population",79462,2
+51021,VA,Bland County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",6270,8
+51023,VA,Botetourt County,51,"Metro - Counties in metro areas of 250,000 to 1 million population",33596,2
+51025,VA,Brunswick County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",15849,8
+51027,VA,Buchanan County,51,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",20355,9
+51029,VA,Buckingham County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",16824,8
+51031,VA,Campbell County,51,"Metro - Counties in metro areas of 250,000 to 1 million population",55696,2
+51033,VA,Caroline County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",30887,8
+51035,VA,Carroll County,51,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",29155,6
+51036,VA,Charles City County,51,Metro - Counties in metro areas of 1 million population or more,6773,1
+51037,VA,Charlotte County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",11529,8
+51041,VA,Chesterfield County,51,Metro - Counties in metro areas of 1 million population or more,364548,1
+51043,VA,Clarke County,51,Metro - Counties in metro areas of 1 million population or more,14783,1
+51045,VA,Craig County,51,"Metro - Counties in metro areas of 250,000 to 1 million population",4892,2
+51047,VA,Culpeper County,51,Metro - Counties in metro areas of 1 million population or more,52552,1
+51049,VA,Cumberland County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",9675,8
+51051,VA,Dickenson County,51,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",14124,9
+51053,VA,Dinwiddie County,51,Metro - Counties in metro areas of 1 million population or more,27947,1
+51057,VA,Essex County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",10599,8
+51059,VA,Fairfax County,51,Metro - Counties in metro areas of 1 million population or more,1150309,1
+51061,VA,Fauquier County,51,Metro - Counties in metro areas of 1 million population or more,72972,1
+51063,VA,Floyd County,51,"Metro - Counties in metro areas of fewer than 250,000 population",15476,3
+51065,VA,Fluvanna County,51,"Metro - Counties in metro areas of fewer than 250,000 population",27249,3
+51067,VA,Franklin County,51,"Metro - Counties in metro areas of 250,000 to 1 million population",54477,2
+51069,VA,Frederick County,51,"Metro - Counties in metro areas of fewer than 250,000 population",91419,3
+51071,VA,Giles County,51,"Metro - Counties in metro areas of fewer than 250,000 population",16787,3
+51073,VA,Gloucester County,51,Metro - Counties in metro areas of 1 million population or more,38711,1
+51075,VA,Goochland County,51,Metro - Counties in metro areas of 1 million population or more,24727,1
+51077,VA,Grayson County,51,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",15333,9
+51079,VA,Greene County,51,"Metro - Counties in metro areas of fewer than 250,000 population",20552,3
+51081,VA,Greensville County,51,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",11391,6
+51083,VA,Halifax County,51,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",34022,6
+51085,VA,Hanover County,51,Metro - Counties in metro areas of 1 million population or more,109979,1
+51087,VA,Henrico County,51,Metro - Counties in metro areas of 1 million population or more,334389,1
+51089,VA,Henry County,51,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",50948,4
+51091,VA,Highland County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",2232,8
+51093,VA,Isle of Wight County,51,Metro - Counties in metro areas of 1 million population or more,38606,1
+51095,VA,James City County,51,Metro - Counties in metro areas of 1 million population or more,78254,1
+51097,VA,King and Queen County,51,Metro - Counties in metro areas of 1 million population or more,6608,1
+51099,VA,King George County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",26723,8
+51101,VA,King William County,51,Metro - Counties in metro areas of 1 million population or more,17810,1
+51103,VA,Lancaster County,51,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",10919,9
+51105,VA,Lee County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",22173,8
+51107,VA,Loudoun County,51,Metro - Counties in metro areas of 1 million population or more,420959,1
+51109,VA,Louisa County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",37596,8
+51111,VA,Lunenburg County,51,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",11936,9
+51113,VA,Madison County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",13837,8
+51115,VA,Mathews County,51,Metro - Counties in metro areas of 1 million population or more,8533,1
+51117,VA,Mecklenburg County,51,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",30319,7
+51119,VA,Middlesex County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",10625,8
+51121,VA,Montgomery County,51,"Metro - Counties in metro areas of fewer than 250,000 population",99721,3
+51125,VA,Nelson County,51,"Metro - Counties in metro areas of fewer than 250,000 population",14775,3
+51127,VA,New Kent County,51,Metro - Counties in metro areas of 1 million population or more,22945,1
+51131,VA,Northampton County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",12282,8
+51133,VA,Northumberland County,51,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",11839,9
+51135,VA,Nottoway County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",15642,8
+51137,VA,Orange County,51,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",36254,6
+51139,VA,Page County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",23709,8
+51141,VA,Patrick County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",17608,8
+51143,VA,Pittsylvania County,51,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",60501,4
+51145,VA,Powhatan County,51,Metro - Counties in metro areas of 1 million population or more,30333,1
+51147,VA,Prince Edward County,51,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",21849,6
+51149,VA,Prince George County,51,Metro - Counties in metro areas of 1 million population or more,43010,1
+51153,VA,Prince William County,51,Metro - Counties in metro areas of 1 million population or more,482204,1
+51155,VA,Pulaski County,51,"Metro - Counties in metro areas of fewer than 250,000 population",33800,3
+51157,VA,Rappahannock County,51,Metro - Counties in metro areas of 1 million population or more,7348,1
+51159,VA,Richmond County,51,"Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",8923,9
+51161,VA,Roanoke County,51,"Metro - Counties in metro areas of 250,000 to 1 million population",96929,2
+51163,VA,Rockbridge County,51,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",22650,6
+51165,VA,Rockingham County,51,"Metro - Counties in metro areas of fewer than 250,000 population",83757,3
+51167,VA,Russell County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",25781,8
+51169,VA,Scott County,51,"Metro - Counties in metro areas of 250,000 to 1 million population",21576,2
+51171,VA,Shenandoah County,51,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",44186,6
+51173,VA,Smyth County,51,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",29800,7
+51175,VA,Southampton County,51,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",17996,6
+51177,VA,Spotsylvania County,51,Metro - Counties in metro areas of 1 million population or more,140032,1
+51179,VA,Stafford County,51,Metro - Counties in metro areas of 1 million population or more,156927,1
+51181,VA,Surry County,51,Metro - Counties in metro areas of 1 million population or more,6561,1
+51183,VA,Sussex County,51,Metro - Counties in metro areas of 1 million population or more,10829,1
+51185,VA,Tazewell County,51,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",40429,7
+51187,VA,Warren County,51,Metro - Counties in metro areas of 1 million population or more,40727,1
+51191,VA,Washington County,51,"Metro - Counties in metro areas of 250,000 to 1 million population",53935,2
+51193,VA,Westmoreland County,51,"Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",18477,8
+51195,VA,Wise County,51,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",36130,7
+51197,VA,Wythe County,51,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",28290,6
+51199,VA,York County,51,Metro - Counties in metro areas of 1 million population or more,70045,1
+51510,VA,Alexandria city,51,Metro - Counties in metro areas of 1 million population or more,159467,1
+51520,VA,Bristol city,51,"Metro - Counties in metro areas of 250,000 to 1 million population",17219,2
+51530,VA,Buena Vista city,51,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",6641,6
+51540,VA,Charlottesville city,51,"Metro - Counties in metro areas of fewer than 250,000 population",46553,3
+51550,VA,Chesapeake city,51,Metro - Counties in metro areas of 1 million population or more,249422,1
+51570,VA,Colonial Heights city,51,Metro - Counties in metro areas of 1 million population or more,18170,1
+51580,VA,Covington city,51,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",5737,6
+51590,VA,Danville city,51,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",42590,4
+51595,VA,Emporia city,51,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",5766,6
+51600,VA,Fairfax city,51,Metro - Counties in metro areas of 1 million population or more,24146,1
+51610,VA,Falls Church city,51,Metro - Counties in metro areas of 1 million population or more,14658,1
+51620,VA,Franklin city,51,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",8180,6
+51630,VA,Fredericksburg city,51,Metro - Counties in metro areas of 1 million population or more,27982,1
+51640,VA,Galax city,51,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",6720,6
+51650,VA,Hampton city,51,Metro - Counties in metro areas of 1 million population or more,137148,1
+51660,VA,Harrisonburg city,51,"Metro - Counties in metro areas of fewer than 250,000 population",51814,3
+51670,VA,Hopewell city,51,Metro - Counties in metro areas of 1 million population or more,23033,1
+51678,VA,Lexington city,51,"Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",7320,6
+51680,VA,Lynchburg city,51,"Metro - Counties in metro areas of 250,000 to 1 million population",79009,2
+51683,VA,Manassas city,51,Metro - Counties in metro areas of 1 million population or more,42772,1
+51685,VA,Manassas Park city,51,Metro - Counties in metro areas of 1 million population or more,17219,1
+51690,VA,Martinsville city,51,"Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",13485,4
+51700,VA,Newport News city,51,Metro - Counties in metro areas of 1 million population or more,186247,1
+51710,VA,Norfolk city,51,Metro - Counties in metro areas of 1 million population or more,238005,1
+51720,VA,Norton city,51,"Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",3687,7
+51730,VA,Petersburg city,51,Metro - Counties in metro areas of 1 million population or more,33458,1
+51735,VA,Poquoson city,51,Metro - Counties in metro areas of 1 million population or more,12460,1
+51740,VA,Portsmouth city,51,Metro - Counties in metro areas of 1 million population or more,97915,1
+51750,VA,Radford city,51,"Metro - Counties in metro areas of fewer than 250,000 population",16070,3
+51760,VA,Richmond city,51,Metro - Counties in metro areas of 1 million population or more,226610,1
+51770,VA,Roanoke city,51,"Metro - Counties in metro areas of 250,000 to 1 million population",100011,2
+51775,VA,Salem city,51,"Metro - Counties in metro areas of 250,000 to 1 million population",25346,2
+51790,VA,Staunton city,51,"Metro - Counties in metro areas of fewer than 250,000 population",25750,3
+51800,VA,Suffolk city,51,Metro - Counties in metro areas of 1 million population or more,94324,1
+51810,VA,Virginia Beach city,51,Metro - Counties in metro areas of 1 million population or more,459470,1
+51820,VA,Waynesboro city,51,"Metro - Counties in metro areas of fewer than 250,000 population",22196,3
+51830,VA,Williamsburg city,51,Metro - Counties in metro areas of 1 million population or more,15425,1
+51840,VA,Winchester city,51,"Metro - Counties in metro areas of fewer than 250,000 population",28120,3
