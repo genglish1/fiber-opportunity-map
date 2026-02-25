@@ -1,6 +1,6 @@
 # Fiber Opportunity Scoring Model
 
-An interactive map and data pipeline that identifies census tracts ripe for new fiber broadband builds across six states: **Virginia, Kentucky, Maryland, Pennsylvania, Ohio, and New York**.
+An interactive map and data pipeline that identifies census tracts ripe for new fiber broadband builds across ten states: **Virginia, Kentucky, Maryland, Pennsylvania, Ohio, New York, West Virginia, Michigan, New Jersey, and Delaware**.
 
 **[View the Interactive Map](https://genglish1.github.io/fiber-opportunity-map/fiber_opportunity_map.html)**
 
@@ -10,11 +10,11 @@ This project merges three federal datasets at the census tract level to score ea
 
 ### Key Findings
 
-- **16,711 census tracts** scored across 6 states (63.9M people, 20.7M broadband serviceable locations)
-- **838,000 BSLs** classified as unserved (no provider offers 25/3 Mbps)
-- **693 tracts** with zero fiber providers
-- **1,536 tracts** rated High or Very High opportunity
-- Pennsylvania leads with 511 High-tier tracts, followed by Virginia (299) and Kentucky (201)
+> **Note:** These numbers reflect the previous 6-state run and will be updated after running the full 10-state pipeline.
+
+- **16,711+ census tracts** scored across 10 states
+- Includes VA, KY, MD, PA, OH, NY, WV, MI, NJ, DE
+- Scoring is percentile-based — all scores recalculate when states are added
 
 ## Methodology
 
@@ -102,7 +102,7 @@ Broadband-Equity/
 ├── data/
 │   ├── raw/                    # Source data (not in repo — regenerate via scripts)
 │   └── processed/
-│       ├── tract_scores.csv    # All 16,711 scored tracts
+│       ├── tract_scores.csv    # All scored tracts
 │       └── county_scores.csv   # County-level aggregated scores
 └── output/
     └── fiber_opportunity_map.html  # Interactive map (self-contained)
@@ -124,7 +124,7 @@ pip install pandas numpy requests geopandas folium pyarrow
 ### Run the Pipeline
 
 ```bash
-# 1. Pull Census ACS data (tract-level, 6 states)
+# 1. Pull Census ACS data (tract-level, 10 states)
 python scripts/pull_acs_data.py
 
 # 2. Pull FCC BDC broadband availability data
@@ -143,7 +143,7 @@ The USDA RUCC data is downloaded automatically by `pull_acs_data.py`. No API key
 
 - **FCC BDC data reflects provider-reported availability** (June 2024), not verified service. Providers may overstate coverage areas. The BDC challenge process corrects some of this, but gaps remain.
 - **Census ACS adoption data** is survey-based with margins of error, particularly in low-population tracts. The 5-year estimates smooth this but still carry uncertainty.
-- **The scoring model uses percentile ranking**, which means scores are relative within this 6-state dataset. Adding or removing states would shift all scores.
+- **The scoring model uses percentile ranking**, which means scores are relative within the current dataset. Adding or removing states shifts all scores.
 - **Build cost estimation is absent.** Terrain, pole access, permitting complexity, and make-ready costs are not captured in these datasets. RUCC codes and density are rough proxies at best.
 - **BEAD allocations and timelines vary by state.** Virginia's BEAD program is further along than others. State-level regulatory environments also affect opportunity.
 - **Tract-level analysis may mask sub-tract variation.** A tract scored "moderate" may contain pockets of excellent opportunity alongside well-served areas.

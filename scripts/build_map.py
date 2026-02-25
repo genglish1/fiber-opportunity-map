@@ -1,5 +1,6 @@
 """
 Build interactive Folium map of fiber opportunity scores.
+Ten states: VA, KY, MD, PA, OH, NY, WV, MI, NJ, DE
 
 Choropleth at the tract level colored by opportunity score.
 Click a tract to see score breakdown and key metrics.
@@ -27,6 +28,10 @@ STATES = {
     "PA": "42",
     "OH": "39",
     "NY": "36",
+    "WV": "54",
+    "MI": "26",
+    "NJ": "34",
+    "DE": "10",
 }
 
 
@@ -71,7 +76,7 @@ def get_tract_geometries():
     state_fips_list = list(STATES.values())
     gdf = gdf[gdf["STATEFP"].isin(state_fips_list)].copy()
     gdf = gdf.rename(columns={"GEOID": "GEOID"})
-    print(f"  Filtered to {len(gdf)} tracts in our 6 states")
+    print(f"  Filtered to {len(gdf)} tracts in our {len(STATES)} states")
 
     # Save filtered cache
     gdf.to_file(cache_path, driver="GeoJSON")
@@ -131,18 +136,19 @@ def build_map():
     map_data["median_hh_income"] = map_data["median_hh_income"].fillna(0)
     map_data["rucc_code"] = map_data["rucc_code"].fillna(0).astype(int)
 
-    # Create map centered on the region
-    center_lat = 38.5  # roughly center of our 6 states
-    center_lon = -79.5
+    # Create map centered on the region (10 states: VA to MI/NY, DE to KY)
+    center_lat = 39.5
+    center_lon = -80.0
     m = folium.Map(
         location=[center_lat, center_lon],
-        zoom_start=6,
+        zoom_start=5,
         tiles="CartoDB positron",
     )
 
-    # Color scale
+    # Color scale — light blue-gray at median, warm tones reserved for High tier (65+)
     colormap = folium.LinearColormap(
-        colors=["#2166ac", "#67a9cf", "#d1e5f0", "#fddbc7", "#ef8a62", "#b2182b"],
+        colors=["#2166ac", "#92c5de", "#d0e1ef", "#fdae61", "#d73027", "#a50026"],
+        index=[20, 40, 52, 65, 73, 80],
         vmin=20,
         vmax=80,
         caption="Fiber Opportunity Score",
@@ -207,7 +213,7 @@ def build_map():
     ].to_json())
 
     # Add GeoJson layer
-    folium.GeoJson(
+    geojson_layer = folium.GeoJson(
         map_json,
         name="Fiber Opportunity",
         style_function=style_function,
@@ -215,7 +221,7 @@ def build_map():
             fields=tooltip_fields,
             aliases=tooltip_aliases,
             localize=True,
-            sticky=True,
+            sticky=False,
             style="font-size: 12px;",
         ),
         popup=GeoJsonPopup(
@@ -224,10 +230,40 @@ def build_map():
             localize=True,
             style="font-size: 11px; max-width: 400px;",
         ),
+    )
+    geojson_layer.add_to(m)
+
+    # Add state border lines (dissolve ALL tract geometries by state FIPS for clean outlines)
+    print("Building state border lines...")
+    geo_for_borders = geo.copy()
+    geo_for_borders["state_fips"] = geo_for_borders["GEOID"].str[:2]
+    state_borders = geo_for_borders.dissolve(by="state_fips").reset_index()
+    state_borders["geometry"] = state_borders["geometry"].simplify(0.005, preserve_topology=True)
+    state_border_json = json.loads(state_borders[["geometry", "state_fips"]].to_json())
+    folium.GeoJson(
+        state_border_json,
+        name="State Borders",
+        interactive=False,
+        style_function=lambda x: {
+            "fillOpacity": 0,
+            "color": "#333",
+            "weight": 2.5,
+            "pointerEvents": "none",
+        },
     ).add_to(m)
 
     # Add layer control
     folium.LayerControl().add_to(m)
+
+    # CSS to hide tooltips while a popup is open (uses :has() selector)
+    tooltip_suppress_css = """
+    <style>
+    .leaflet-pane.leaflet-popup-pane:has(.leaflet-popup) ~ .leaflet-pane.leaflet-tooltip-pane {
+        display: none !important;
+    }
+    </style>
+    """
+    m.get_root().html.add_child(folium.Element(tooltip_suppress_css))
 
     # Add info legend / methodology panel
     legend_html = """
@@ -270,8 +306,8 @@ def build_map():
         </div>
         <div id="info-panel-body">
             <p style="margin: 0 0 10px 0; color: #555;">
-                Identifies census tracts across VA, KY, MD, PA, OH, and NY
-                that are strong candidates for new fiber broadband builds.
+                Identifies census tracts across 10 states (VA, KY, MD, PA, OH, NY,
+                WV, MI, NJ, DE) that are strong candidates for new fiber broadband builds.
             </p>
 
             <h4 style="margin: 12px 0 4px 0; color: #333; border-bottom: 1px solid #ddd; padding-bottom: 2px;">
@@ -301,7 +337,7 @@ def build_map():
             </p>
 
             <div style="margin-bottom: 6px;">
-                <strong style="color: #b2182b;">Supply Gap — 40%</strong><br>
+                <strong style="color: #a50026;">Supply Gap — 40%</strong><br>
                 <span style="color: #555;">
                     Few/no fiber providers, high % of BSLs without fiber,
                     heavy copper/DSL dependency, unserved + underserved concentration.
@@ -334,7 +370,7 @@ def build_map():
                 Color Scale
             </h4>
             <div style="display: flex; align-items: center; margin-bottom: 4px;">
-                <div style="width: 60px; height: 14px; background: linear-gradient(to right, #2166ac, #67a9cf, #d1e5f0, #fddbc7, #ef8a62, #b2182b); border: 1px solid #ccc; margin-right: 8px;"></div>
+                <div style="width: 60px; height: 14px; background: linear-gradient(to right, #2166ac, #92c5de, #d0e1ef, #fdae61, #d73027, #a50026); border: 1px solid #ccc; margin-right: 8px;"></div>
                 <span>Low (20) → High (80)</span>
             </div>
 

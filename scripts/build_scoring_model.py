@@ -25,16 +25,20 @@ PROC_DIR = os.path.join(DATA_DIR, "processed")
 def load_and_merge():
     """Load all three datasets and merge on tract GEOID."""
     # ACS data
-    acs = pd.read_csv(os.path.join(RAW_DIR, "acs_2024_tracts_6states.csv"), dtype={"GEOID": str})
+    acs = pd.read_csv(os.path.join(RAW_DIR, "acs_2024_tracts.csv"), dtype={"GEOID": str})
     print(f"ACS: {len(acs)} tracts")
 
     # FCC BDC data
-    fcc = pd.read_csv(os.path.join(RAW_DIR, "fcc_bdc_tracts_6states.csv"), dtype={"GEOID": str})
+    fcc = pd.read_csv(os.path.join(RAW_DIR, "fcc_bdc_tracts.csv"), dtype={"GEOID": str})
     print(f"FCC: {len(fcc)} tracts")
 
     # RUCC data (county level — join via county GEOID)
-    rucc = pd.read_csv(os.path.join(RAW_DIR, "rucc_2023_6states.csv"))
+    # National file in long format (3 rows per county: Population_2020, RUCC_2023, Description)
+    rucc_long = pd.read_csv(os.path.join(RAW_DIR, "rucc_2023.csv"), encoding="latin-1")
+    rucc = rucc_long.pivot_table(index=["FIPS", "State", "County_Name"], columns="Attribute", values="Value", aggfunc="first").reset_index()
     rucc["county_geoid"] = rucc["FIPS"].astype(str).str.zfill(5)
+    rucc["RUCC_2023"] = pd.to_numeric(rucc["RUCC_2023"], errors="coerce")
+    rucc["Population_2020"] = pd.to_numeric(rucc["Population_2020"], errors="coerce")
     rucc = rucc[["county_geoid", "RUCC_2023", "Population_2020", "Description"]].copy()
     rucc.columns = ["county_geoid", "rucc_code", "county_pop_2020", "rucc_description"]
     print(f"RUCC: {len(rucc)} counties")

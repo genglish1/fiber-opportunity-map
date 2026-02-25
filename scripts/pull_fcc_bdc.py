@@ -1,6 +1,7 @@
 """
 Pull FCC Broadband Data Collection (BDC) tract-level data from ArcGIS Feature Service.
 June 2024 filing — the latest available on ArcGIS Living Atlas.
+Ten states: VA, KY, MD, PA, OH, NY, WV, MI, NJ, DE
 
 Layer 2 = Tracts (summary: served/underserved/unserved BSLs by technology, provider counts)
 Layer 9 = BDC Records for Tracts (per-provider detail)
@@ -28,6 +29,10 @@ STATES = {
     "PA": "42",
     "OH": "39",
     "NY": "36",
+    "WV": "54",
+    "MI": "26",
+    "NJ": "34",
+    "DE": "10",
 }
 
 # Fields we want
@@ -145,7 +150,7 @@ def main():
     print(f"Fiber unserved BSLs: {combined['UnservedBSLsFiber'].sum():,.0f}")
     print(f"Tracts with zero fiber providers: {(combined['UniqueProvidersFiber'] == 0).sum()}")
 
-    outpath = os.path.join(OUTPUT_DIR, "fcc_bdc_tracts_6states.csv")
+    outpath = os.path.join(OUTPUT_DIR, "fcc_bdc_tracts.csv")
     combined.to_csv(outpath, index=False)
     print(f"\nSaved to {outpath}")
 

@@ -4,7 +4,7 @@
 
 The model scores each census tract on a 0–100 scale representing how attractive it is for a greenfield fiber broadband deployment. The score is a weighted composite of four dimensions, each capturing a different aspect of market opportunity.
 
-All component scores are computed using **percentile ranking** within the dataset. This means a score of 75 indicates the tract ranks in the 75th percentile for that metric relative to all other tracts in the six-state study area. This approach normalizes across metrics with very different scales (dollar amounts, percentages, counts) without imposing arbitrary thresholds.
+All component scores are computed using **percentile ranking** within the dataset. This means a score of 75 indicates the tract ranks in the 75th percentile for that metric relative to all other tracts in the ten-state study area (VA, KY, MD, PA, OH, NY, WV, MI, NJ, DE). This approach normalizes across metrics with very different scales (dollar amounts, percentages, counts) without imposing arbitrary thresholds.
 
 ## Component Details
 
@@ -86,13 +86,15 @@ Opportunity Score = (Supply Gap × 0.40) + (Demand Signal × 0.30)
 
 ## Tier Classification
 
-| Tier | Score Range | Tracts |
-|------|------------|--------|
-| Very High | 80–100 | 1 |
-| High | 65–80 | 1,535 |
-| Moderate | 50–65 | 6,137 |
-| Below Average | 30–50 | 8,577 |
-| Low | 0–30 | 461 |
+| Tier | Score Range |
+|------|------------|
+| Very High | 80–100 |
+| High | 65–80 |
+| Moderate | 50–65 |
+| Below Average | 30–50 |
+| Low | 0–30 |
+
+> Tract counts update with each pipeline run as the percentile-based scoring recalculates across all states in the dataset.
 
 ## What This Model Does NOT Capture
 

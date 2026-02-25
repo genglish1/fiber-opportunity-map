@@ -1,6 +1,6 @@
 """
 Pull Census ACS 2020-2024 5-year data for fiber opportunity scoring model.
-Six states: VA, KY, MD, PA, OH, NY
+Ten states: VA, KY, MD, PA, OH, NY, WV, MI, NJ, DE
 Tract-level data for: broadband subscriptions, income, education, employment,
 race/ethnicity, population/housing density.
 """
@@ -22,6 +22,10 @@ STATES = {
     "PA": "42",
     "OH": "39",
     "NY": "36",
+    "WV": "54",
+    "MI": "26",
+    "NJ": "34",
+    "DE": "10",
 }
 
 # Variables to pull — grouped by topic
@@ -133,7 +137,7 @@ def main():
     print(combined["state_abbr"].value_counts().sort_index())
 
     # Save
-    outpath = os.path.join(OUTPUT_DIR, "acs_2024_tracts_6states.csv")
+    outpath = os.path.join(OUTPUT_DIR, "acs_2024_tracts.csv")
     combined.to_csv(outpath, index=False)
     print(f"\nSaved to {outpath}")
 
